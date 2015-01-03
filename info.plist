@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>zz-ohaqyrf@sereba.pbz</string>
+	<key>contactName</key>
+	<string>Benny Kjær Nielsen</string>
+	<key>description</key>
+	<string>Integration with task manager Reminders.</string>
+	<key>name</key>
+	<string>Reminders</string>
+	<key>uuid</key>
+	<string>38EBA28B-050E-4E8C-B88D-4F6A96D1674B</string>
+</dict>
+</plist>
